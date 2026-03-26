@@ -386,7 +386,7 @@ a {
   color: var(--main-color);
   left: 50%;
   transform: translateX(-50%);
-  transform: var(--main-transition);
+  transition: var(--main-transition);
 }
 
 .landing .go-down:hover {
